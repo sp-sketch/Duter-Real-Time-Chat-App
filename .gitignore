@@ -1,0 +1,15 @@
+# APKs
+*.apk
+app/release/
+
+# Build folders
+build/
+app/build/
+
+# Firebase
+app/google-services.json
+
+# Android Studio
+.idea/
+.gradle/
+local.properties
